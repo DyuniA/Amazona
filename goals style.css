@@ -1,0 +1,53 @@
+body{
+	background-color:#FF7F7F
+}
+
+header{
+	display: block;
+	background-color:gray;
+      width:1000px;
+	 height:110.5px;
+	 margin: auto;
+	 text-align: center;
+	 color: white;
+	  font-family:arial;
+	  }
+	  
+	  .maindiv{
+	width:800px;
+	margin:auto;
+	font-family:comic sans ms;
+    background-color:rgba(255,255,255,0.9);
+	color:black;
+	padding-top:10px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:50px;
+	
+	.easteregglink{
+	width:10px;
+	height:10px;
+ position: absolute;
+  bottom: -1000px;
+  left: 16px;
+       }
+	   
+	   	div.gallery1 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+div.gallery1:hover {
+  border: 1px solid #777;
+}
+div.gallery1 img {
+  width: 100%;
+  height: auto;
+}
+div.desc1 {
+  padding: 15px;
+  text-align: center;
+}
+	   
+	
